@@ -40,7 +40,7 @@ With my spectrum of abilities, I wish to pluck the right opportunities to seek t
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)
 
 
 
