@@ -13,15 +13,16 @@
 <a href="https://twitter.com/iamsiddharthdas">
   <img align="left" alt="Siddharth Das - Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
+
 <br />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
 ![HitCount](http://hits.dwyl.com/iamsiddharthdas/iamsiddharthdas.svg)
 
 <br/>
-# It's not about avoiding the crash. 
-# It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. 
-# The quest to keep going, to always fight for footing.
+
+# It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing.
+
 <br/>
 <br />
 <img src= "https://user-images.githubusercontent.com/57487500/88587391-83d7dd00-d073-11ea-9d42-348fe95ceb3b.jpg" align="left" alt="sid" width="600" height="500">
