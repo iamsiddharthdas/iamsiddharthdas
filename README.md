@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<br />
+<br />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -36,6 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
 ![](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical)
 <br/>
 <br/>
