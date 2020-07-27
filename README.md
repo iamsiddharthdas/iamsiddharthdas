@@ -1,6 +1,5 @@
 # Welcome to my GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<br />
-<br />
+<br /> <br />
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="left" alt="Siddharth Das - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -13,12 +12,9 @@
 <a href="https://twitter.com/iamsiddharthdas">
   <img align="left" alt="Siddharth Das - Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-
 <br />
 <br />
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
-
 <br/>
 <br />
 <img src= "https://user-images.githubusercontent.com/57487500/88587391-83d7dd00-d073-11ea-9d42-348fe95ceb3b.jpg" align="left" alt="sid" width="600" height="500">
