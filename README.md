@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 -->
 
 <br />
-![](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical)
+
 <br/>
 <br/>
 
@@ -49,7 +51,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
 [![HitCount](http://hits.dwyl.com/iamsiddharthdas/iamsiddharthdas.svg)](http://hits.dwyl.com/iamsiddharthdas/iamsiddharthdas)
 
 <br/>
