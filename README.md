@@ -1,3 +1,5 @@
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<br>
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="left" alt="Siddharth Das - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -12,8 +14,6 @@
 </a>
 <br />
 <br />
-
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <br />
 <img src= "https://user-images.githubusercontent.com/57487500/88587391-83d7dd00-d073-11ea-9d42-348fe95ceb3b.jpg" align="left" alt="sid" width="600" height="500">
 
