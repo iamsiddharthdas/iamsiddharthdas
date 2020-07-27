@@ -13,19 +13,17 @@
 <br />
 <br />
 
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<br />
 <img src= "https://user-images.githubusercontent.com/57487500/88587391-83d7dd00-d073-11ea-9d42-348fe95ceb3b.jpg" align="left" alt="sid" width="600" height="500">
 
 <br />
 <br />
 
 I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
-<br />
-<br />
 Regardless of my technical environment, i have an eloquent interest in writing musings and thought-provoking narratives. 
 I am a fervid football fanatic who plays and watches the sport with same enthusiasm.  
 In addition to these hobbies, i have acclaimed state-level and national-level accolades in Quiz and Arts respectively. 
-<br />
-<br />
 With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.
 Here are some ideas to get you started:
 <br />
@@ -34,16 +32,6 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 <br />
 <br />
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <br />
 
