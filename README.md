@@ -19,10 +19,11 @@
 <br />
 I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
 <br/>
+<br/>
 Regardless of my technical environment, i have an eloquent interest in writing musings and thought-provoking narratives. 
 I am a fervid football fanatic who plays and watches the sport with same enthusiasm.  
 In addition to these hobbies, i have acclaimed state-level and national-level accolades in Quiz and Arts respectively.
-<br/>
+<br/><br/>
 With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.
 Here are some ideas to get you started:
 <br />
