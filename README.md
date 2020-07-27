@@ -1,5 +1,5 @@
 # Welcome to my GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<br /> <br />
+<br /><br />
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="left" alt="Siddharth Das - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -28,19 +28,17 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.
 
 <br/><br/>
-<br/>
-<br/>
+<br/><br/>
+<br /><br />
 
 # "It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing." <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
-<br />
 
-<br/>
-<br/>
+<br />
+<br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical)
 
-<br/>
-<br/>
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)
 
