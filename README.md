@@ -27,10 +27,9 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 <br/><br/>
 With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.
 
-<br/><br/>
+<br /><br />
 #
 <br/><br/>
-<br /><br />
 
 # "It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing." 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
