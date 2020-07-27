@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
-![HitCount](http://hits.dwyl.com/iamsiddharthdas/iamsiddharthdas.svg)](http://hits.dwyl.com/iamsiddharthdas/iamsiddharthdas)
+![HitCount](http://hits.dwyl.com/iamsiddharthdas/iamsiddharthdas.svg)
 
 <br/>
 <br/>
