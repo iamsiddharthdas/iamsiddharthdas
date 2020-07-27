@@ -10,7 +10,8 @@
 <a href="https://twitter.com/iamsiddharthdas">
   <img align="left" alt="Siddharth Das - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-
+<br />
+<br />
 I am a cyber-junkie looking to rehabilitate myself through technical opportunities. 
 Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
 
