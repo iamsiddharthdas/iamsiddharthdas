@@ -1,4 +1,6 @@
-
+<a href="mailto:siddharthdas2203@gmail.com">
+  <img align="left" alt="Akshay Saini - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+</a>
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="left" alt="Siddharth Das - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
