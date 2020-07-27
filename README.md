@@ -25,7 +25,6 @@ I am a fervid football fanatic who plays and watches the sport with same enthusi
 In addition to these hobbies, i have acclaimed state-level and national-level accolades in Quiz and Arts respectively.
 <br/><br/>
 With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.
-Here are some ideas to get you started:
 <br />
 <br />
 
