@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-<!--
-**iamsiddharthdas/iamsiddharthdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/iamsiddharthdas/">
+  <img align="left" alt="Siddharth Das - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://www.instagram.com/iamsiddharthdas/">
+  <img align="left" alt="Siddharth Das - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+
+<br />
+<br />
 
 Here are some ideas to get you started:
 
