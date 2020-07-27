@@ -12,9 +12,9 @@
 </a>
 <br />
 <br />
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-I am a cyber-junkie looking to rehabilitate myself through technical opportunities. 
-Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
+<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" alt="Coder GIF" width="300" height="200">
+I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
 <br />
 <br />
 Regardless of my technical environment, i have an eloquent interest in writing musings and thought-provoking narratives. 
