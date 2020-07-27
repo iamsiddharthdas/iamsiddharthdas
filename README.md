@@ -1,3 +1,7 @@
+# "It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing." <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+
+<br/>
+
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <br />
 <br />
@@ -19,10 +23,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
 ![HitCount](http://hits.dwyl.com/iamsiddharthdas/iamsiddharthdas.svg)
-
-<br/>
-
-# "It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing." <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 <br/>
 <br />
