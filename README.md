@@ -9,6 +9,8 @@
 </a>
 <a href="https://twitter.com/iamsiddharthdas">
   <img align="left" alt="Siddharth Das - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+
 <br />
 <br />
 
