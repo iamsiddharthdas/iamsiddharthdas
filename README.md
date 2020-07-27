@@ -37,7 +37,7 @@ With my spectrum of abilities, I wish to pluck the right opportunities to seek t
 <br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&align="right")](https://github.com/iamsiddharthdas/github-readme-stats)
 
 
 
