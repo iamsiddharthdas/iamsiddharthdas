@@ -22,7 +22,7 @@
 
 <br/>
 
-# It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing.
+# "It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing."
 
 <br/>
 <br />
