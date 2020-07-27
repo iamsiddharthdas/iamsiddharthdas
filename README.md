@@ -12,6 +12,7 @@
 </a>
 <br />
 <br />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 I am a cyber-junkie looking to rehabilitate myself through technical opportunities. 
 Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
 <br />
@@ -25,8 +26,6 @@ With my spectrum of abilities, I wish to pluck the right opportunities to seek t
 Here are some ideas to get you started:
 <br />
 <br />
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
