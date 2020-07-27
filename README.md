@@ -33,8 +33,7 @@ I am a cyber-junkie looking to rehabilitate myself through technical opportuniti
 <br/>
 <br/>
 Regardless of my technical environment, i have an eloquent interest in writing musings and thought-provoking narratives. 
-I am a fervid football fanatic who plays and watches the sport with same enthusiasm.  
-In addition to these hobbies, i have acclaimed state-level and national-level accolades in Quiz and Arts respectively.
+Being a fervid football fanatic, I play and watch soccer with same enthusiasm and interest.
 <br/><br/>
 With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.
 <br />
