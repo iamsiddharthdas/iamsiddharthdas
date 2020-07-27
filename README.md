@@ -23,7 +23,6 @@
 <br />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
-![HitCount](http://hits.dwyl.com/iamsiddharthdas/iamsiddharthdas.svg)
 
 <br/>
 <br />
@@ -36,12 +35,11 @@ Regardless of my technical environment, i have an eloquent interest in writing m
 Being a fervid football fanatic, I play and watch soccer with same enthusiasm and interest.
 <br/><br/>
 With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.
-<br />
-<br />
 
-
-<br />
-<br />
+<br/><br/>
+<br/>
+<br/>
+<br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical)
 
