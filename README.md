@@ -17,7 +17,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
 <br/>
 <br />
-<img src= "https://user-images.githubusercontent.com/57487500/88587391-83d7dd00-d073-11ea-9d42-348fe95ceb3b.jpg" align="left" alt="sid" width="400" height="310">
+<img src= "https://user-images.githubusercontent.com/57487500/88657019-dacec800-d0ee-11ea-928a-5db40e7b267f.gif" align="left" alt="sid" width="500" height="400">
 <br />
 I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
 <br/>
