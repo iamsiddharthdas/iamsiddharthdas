@@ -21,8 +21,8 @@
 <b>I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.</b>
 <br/>
 <br/>
-<b>Regardless of my technical environment, i have an eloquent interest in writing musings and thought-provoking narratives.</b>
-Being a fervid football fanatic, I play and watch soccer with same enthusiasm and interest**
+<b>Regardless of my technical environment, i have an eloquent interest in writing musings and thought-provoking narratives.
+Being a fervid football fanatic, I play and watch soccer with same enthusiasm and interest.</b>
 <br/><br/>
 <b>With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.</b>
 
