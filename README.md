@@ -18,6 +18,7 @@
 <br/>
 <img src= "https://user-images.githubusercontent.com/57487500/88657019-dacec800-d0ee-11ea-928a-5db40e7b267f.gif" align="left" alt="sid" width="290" height="290">
 <br/>
+<br/>
 I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
 <br/>
 <br/>
