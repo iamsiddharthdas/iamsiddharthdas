@@ -1,13 +1,13 @@
 <h1>Hello there!<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"><br/>
 <b>Welcome to My Github <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"><br/> </b></h1>
+<a href="https://www.instagram.com/iamsiddharthdas/">
+  <img align="right" alt="Siddharth Das - Instagram" width="30px" height="30px" src="https://user-images.githubusercontent.com/57487500/88673054-cb0eae00-d105-11ea-84c8-72c11edb81cd.png"/>
+</a>
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="right" alt="Siddharth Das - LinkedIn" width="30px" height="30px" src="https://user-images.githubusercontent.com/57487500/88674259-3907a500-d107-11ea-80fb-f76f39a84d7c.png"/>
 </a>
 <a href="mailto:siddharthdas2203@gmail.com">
   <img align="right" alt="Siddharth Das - Gmail" width="30px" height="30px"src="https://user-images.githubusercontent.com/57487500/88674188-255c3e80-d107-11ea-849b-a98bb24a2084.png"/>
-</a>
-<a href="https://www.instagram.com/iamsiddharthdas/">
-  <img align="right" alt="Siddharth Das - Instagram" width="30px" height="30px" src="https://user-images.githubusercontent.com/57487500/88673054-cb0eae00-d105-11ea-84c8-72c11edb81cd.png"/>
 </a>
 <br/>
 <br/>
