@@ -1,5 +1,5 @@
-<h1>Hello there! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60"><br/>
-<b>Welcome to My Github <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"><br/> </b></h1>
+<h1>Hello there!<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"><br/>
+<b>Welcome to My Github <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"><br/> </b></h1>
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="right" alt="Siddharth Das - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
