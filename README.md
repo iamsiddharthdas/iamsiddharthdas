@@ -1,5 +1,5 @@
 # Welcome ⚡ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ⚡
-<br /><br />
+<br />
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="right" alt="Siddharth Das - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -17,7 +17,6 @@
 <img align="right" alt= "s" src="https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas"/>
 <br/>
 <img src= "https://user-images.githubusercontent.com/57487500/88657019-dacec800-d0ee-11ea-928a-5db40e7b267f.gif" align="left" alt="sid" width="290" height="290">
-<br/>
 <br/>
 I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
 <br/>
