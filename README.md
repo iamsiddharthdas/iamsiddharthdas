@@ -18,13 +18,13 @@
 <br/>
 <img src= "https://user-images.githubusercontent.com/57487500/88657019-dacec800-d0ee-11ea-928a-5db40e7b267f.gif" align="left" alt="sid" width="290" height="290">
 <br/>
-I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.
+<b>I am a cyber-junkie looking to rehabilitate myself through technical opportunities. Despite being a mouse potato, I wear a story on my skin; of how I have been ripped with challenges and sewn back together with determination and perseverance.</b>
 <br/>
 <br/>
-Regardless of my technical environment, i have an eloquent interest in writing musings and thought-provoking narratives.
+<b>Regardless of my technical environment, i have an eloquent interest in writing musings and thought-provoking narratives.</b>
 Being a fervid football fanatic, I play and watch soccer with same enthusiasm and interest**
 <br/><br/>
-With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.
+<b>With my spectrum of abilities, I wish to pluck the right opportunities to seek the pursuit of excellence and experience.</b>
 
 <br /><br />
 #
