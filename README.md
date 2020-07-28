@@ -10,7 +10,7 @@
   <img align="right" alt="Siddharth Das - Instagram" width="30px" height="30px" src="https://user-images.githubusercontent.com/57487500/88673054-cb0eae00-d105-11ea-84c8-72c11edb81cd.png"/>
 </a>
 <a href="https://twitter.com/iamsiddharthdas">
-  <img align="right" alt="Siddharth Das - Twitter" width="30px" height="30px" src="https://user-images.githubusercontent.com/57487500/88674264-3b69ff00-d107-11ea-88ea-4427e2a05e42.png"/>
+  <img align="right" alt="Siddharth Das - Twitter" width="30px" height="35px" src="https://user-images.githubusercontent.com/57487500/88674264-3b69ff00-d107-11ea-88ea-4427e2a05e42.png"/>
 </a>
 <br/>
 <br/>
