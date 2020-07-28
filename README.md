@@ -30,7 +30,7 @@ With my spectrum of abilities, I wish to pluck the right opportunities to seek t
 #
 <br/><br/>
 
-## "It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going,  to always fight for footing." 
+# "It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing." 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical)
