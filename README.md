@@ -1,20 +1,20 @@
 # Welcome ⚡ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ⚡
 <br /><br />
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
-  <img align="left" alt="Siddharth Das - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="right" alt="Siddharth Das - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="mailto:siddharthdas2203@gmail.com">
-  <img align="left" alt="Siddharth Das - Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  <img align="right" alt="Siddharth Das - Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 <a href="https://www.instagram.com/iamsiddharthdas/">
-  <img align="left" alt="Siddharth Das - Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img align="right" alt="Siddharth Das - Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/iamsiddharthdas">
-  <img align="left" alt="Siddharth Das - Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  <img align="right" alt="Siddharth Das - Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<br />
-<br />
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas)
+<br/>
+<br/>
+<img align="right" alt= "s" src="https://visitor-badge.laobi.icu/badge?page_id=iamsiddharthdas.iamsiddharthdas"/>
 <br/>
 <br />
 <img src= "https://user-images.githubusercontent.com/57487500/88657019-dacec800-d0ee-11ea-928a-5db40e7b267f.gif" align="left" alt="sid" width="300" height="300">
