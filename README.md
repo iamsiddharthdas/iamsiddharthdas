@@ -1,5 +1,5 @@
-# Welcome ⚡ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ⚡
-
+# Hello there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Welcome to My Github 👨‍💻
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="right" alt="Siddharth Das - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
