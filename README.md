@@ -42,7 +42,8 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 <br/><br/>
 <br/><br/>
 
-> <b><b><i>As a cyber-enthusiast, I have developed a unique perspective when it comes to capturing the story behind my intellectual curiosity, which helps me to accurately identify strategic solutions and provide solution-centric mindfulness and scope to innovate and thrive.<i/><b/><b/>
+<b><b><i> As a cyber-enthusiast, I have developed a unique perspective when it comes to capturing the story behind my intellectual curiosity, which helps me to accurately identify strategic solutions and provide solution-centric mindfulness and scope to innovate and thrive.<i/><b/><b/>
+<b><b><i>These stats doesn't convey much about my personality, but it can give you a fair perspective of what my skill holds as a USP. <i/><b/><b/>
 
 <br/><br/>
 
