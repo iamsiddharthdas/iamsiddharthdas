@@ -1,4 +1,4 @@
-# Hello there! Siddharth here -><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100">
+# Hello! This is Siddharth -><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100">
 <a href="https://www.instagram.com/iamsiddharthdas/">
   <img align="right" alt="Siddharth Das - Instagram" width="40px" height="40px" src="https://user-images.githubusercontent.com/57487500/88673054-cb0eae00-d105-11ea-84c8-72c11edb81cd.png"/>
 </a>
