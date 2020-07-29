@@ -31,7 +31,7 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="left" alt="Coder GIF" width="400" height="300"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&align="right"&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)         
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical&align="centre")
+![github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical&align="right")
 
 
 
