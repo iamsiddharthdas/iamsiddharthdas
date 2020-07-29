@@ -40,10 +40,8 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 <img src="https://user-images.githubusercontent.com/57487500/88762425-cb9f5700-d18e-11ea-9ca7-18b1dd0bcf72.gif" align="left" alt="Coder GIF" width="400" height="250"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&align="right"&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)
 
 <br/><br/>
-<br/><br/>
-<br/><br/>
 
-<p style="font-size:60px"><b><b><i>As a cyber-enthusiast, I have developed a unique perspective when it comes to capturing the story behind my intellectual curiosity, which helps me to accurately identify strategic solutions and provide solution-centric mindfulness and scope to innovate and thrive.These stats doesn't convey much about my personality, but it can give you a fair perspective of what my skill holds as a USP. <i/><b/><b/></p>
+<p style="font-size:60px"><b><b>As a cyber-enthusiast, I have developed a unique perspective when it comes to capturing the story behind my intellectual curiosity, which helps me to accurately identify strategic solutions and provide solution-centric mindfulness and scope to innovate and thrive.These stats doesn't convey much about my personality, but it can give you a fair perspective of what my skill holds as a USP.<b/><b/></p>
 
 <br/><br/>
 
