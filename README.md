@@ -33,6 +33,7 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 <img src="https://user-images.githubusercontent.com/57487500/88762425-cb9f5700-d18e-11ea-9ca7-18b1dd0bcf72.gif" align="left" alt="Coder GIF" width="400" height="250"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&align="right"&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)
 
 <br/><br/>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical&align="center")
 
 
