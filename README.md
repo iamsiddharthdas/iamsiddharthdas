@@ -9,6 +9,13 @@
 <a href="mailto:siddharthdas2203@gmail.com">
   <img align="right" alt="Siddharth Das - Gmail" width="40px" height="40px"src="https://user-images.githubusercontent.com/57487500/88674188-255c3e80-d107-11ea-849b-a98bb24a2084.png"/>
 </a>
+<a href="https://dev.to/iamsiddharthdas">
+  <img align="right" height="40" width="40" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddharth Das's DEV Profile" >
+</a>
+
+ <a href="https://stackoverflow.com/story/iamsiddharthdas">
+            <img align="right" height="40" width="40" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/stackoverflow.png">
+</a>
 <br/>
 <br/>
 <br/>
@@ -37,14 +44,6 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical&align="left")
-
-<a href="https://dev.to/iamsiddharthdas">
-  <img align="right" style="display:block;margin:10px 10px 10px 10px; height="50" width="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddharth Das's DEV Profile" >
-</a>
-
- <a href="https://stackoverflow.com/story/iamsiddharthdas">
-            <img align="right" style="display:block;margin:10px 10px 10px 10px;" height="50" width="50" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/stackoverflow.png">
-        </a>
 
 
 
