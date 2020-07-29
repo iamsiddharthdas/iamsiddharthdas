@@ -34,7 +34,7 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 
 <br/><br/>
 <br/><br/>
-<br/><br/>
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical&align="left")
 
