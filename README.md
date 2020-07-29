@@ -42,6 +42,9 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 <br/><br/>
 <br/><br/>
 
+> <b><b><i>As a cyber-enthusiast, I have developed a unique perspective when it comes to capturing the story behind my intellectual curiosity, which helps me to accurately identify strategic solutions and provide solution-centric mindfulness and scope to innovate and thrive.<i/><b/><b/>
+
+<br/><br/>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&show_icons=true&theme=radical&align="left")
 
