@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/iamsiddharthdas/">
   <img align="right" alt="Siddharth Das - LinkedIn" width="40px" height="40px" src="https://user-images.githubusercontent.com/57487500/88674259-3907a500-d107-11ea-80fb-f76f39a84d7c.png"/>
 </a>
-<a href="mailto:siddharthdas2203@gmail.com">
+<a href="mailto:iamsiddharthdas22@gmail.com">
   <img align="right" alt="Siddharth Das - Gmail" width="40px" height="40px"src="https://user-images.githubusercontent.com/57487500/88674188-255c3e80-d107-11ea-849b-a98bb24a2084.png"/>
 </a>
 <a href="https://dev.to/iamsiddharthdas">
