@@ -36,7 +36,7 @@ Being a fervid football fanatic, I play and watch soccer with same enthusiasm an
 ## "It's not about avoiding the crash. It's about setting a break-point to find the flaw in the code, fix it and carry on until we hit the next flaw. The quest to keep going, to always fight for footing." 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/57487500/88762425-cb9f5700-d18e-11ea-9ca7-18b1dd0bcf72.gif" align="left" alt="Coder GIF" width="400" height="250">(https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&align="right"&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/57487500/88762425-cb9f5700-d18e-11ea-9ca7-18b1dd0bcf72.gif" align="left" alt="Coder GIF" width="400" height="250"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&align="right"&layout=compact)](https://github.com/iamsiddharthdas/github-readme-stats)
 
 <br/><br/>
 <br/><br/>
