@@ -12,9 +12,6 @@
   <img align="right" height="40" width="40" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddharth Das's DEV Profile" >
 </a>
 
- <a href="https://stackoverflow.com/story/iamsiddharthdas">
-            <img align="right" height="40" width="40" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/stackoverflow.png">
-</a>
 <br/>
 <br/>
 <br/>
