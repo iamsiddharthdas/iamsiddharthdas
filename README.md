@@ -1,4 +1,4 @@
-<p><h2 align="center"> WELCOME TO MY GITHUB! </h2><h5 align="center">I build things, break things, and pretend it was all part of the plan.</h5></p>
+<p><h2 align="center"> WELCOME TO MY GITHUB! </h2><h4 align="center">I build things, break things, and pretend it was all part of the plan.</h4></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
