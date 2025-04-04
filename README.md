@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" title="Streamlit" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="TensorFlow" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
-</p></p>
+<br></p></p>
 
 <h5 p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong></h5><details align="center"><summary><i>Click to find a coping mechanism</i></summary></p>
 <p align="center">
