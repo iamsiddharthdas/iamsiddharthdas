@@ -35,9 +35,9 @@
 <br/>
 
 ## 🌍 **Find Me in the Wild**  
-📷 **Instagram (Somewhere between Aesthetic & Unhinged):** [@yourhandle](https://twitter.com/)  
+📷 **Instagram (Somewhere between Aesthetic & Unhinged):** [@iamsiddharthdas](https://twitter.com/)  
 ⚽ **Football Analytics Page (Where stats meet sass) :** [Mezzala ⚽](https://instagram.com/](https://www.instagram.com/mezzala._/))  
-💼 **LinkedIn (For Serious Bizness™):** [Your Name](https://linkedin.com/in/)  
+💼 **LinkedIn (For Serious Bizness™):** [Siddharth Das](https://linkedin.com/in/iamsiddharthdas)  
 🌐 **Portfolio: (ETA: Whenever My Code Works)** 
 
 <br/>
