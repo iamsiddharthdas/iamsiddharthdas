@@ -2,7 +2,6 @@
 <h1 align="center" style="font-size: 3em; color: #ff7b00;"> WELCOME TO MY GITHUB, MORTAL! </h1>
 <h3 align="center" style="font-size: 1.5em; font-style: italic;">I build things, break things, and pretend it was all part of the plan. </h3>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -13,7 +12,6 @@
   <img src="https://media.licdn.com/dms/image/v2/D5622AQHOn4x2FoX1mQ/feedshare-shrink_800/feedshare-shrink_800/0/1686078905713?e=1746662400&v=beta&t=KhC60__tKHxjbgO2oqpB_kYWkqQjWabVHwr6tjtMsCw"/>
 
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" title="Angular.js" />
@@ -22,7 +20,6 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" title="Canva" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" title="Django" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" />
   <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" title="Jenkins" />
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" title="Jira" />
@@ -45,7 +42,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="TensorFlow" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
 </p>
-<br/>
+
 <p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong><br>
 <details align="center">
   <summary><i>Click to find a coping mechanism</i></summary>
