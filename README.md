@@ -1,4 +1,4 @@
-<p><h2 align="center"> WELCOME TO MY GITHUB! </h2><h4 align="center">I build things, write code, and sometimes, both work.</h4></p>
+<p><h2 align="center"> WELCOME! </h2><h4 align="center">Expect python, passion, and at least three <i>"why is this not working?"</i> moments per repo.</h4></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
