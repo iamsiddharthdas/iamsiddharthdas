@@ -1,7 +1,6 @@
 
 <h1 align="center" style="font-size: 3em; color: #ff7b00;"> WELCOME TO MY GITHUB, MORTAL! </h1>
 <h3 align="center" style="font-size: 1.5em; font-style: italic;">I build things, break things, and pretend it was all part of the plan. </h3>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -10,7 +9,6 @@
 
 <p align='center'
   <img src="https://media.licdn.com/dms/image/v2/D5622AQHOn4x2FoX1mQ/feedshare-shrink_800/feedshare-shrink_800/0/1686078905713?e=1746662400&v=beta&t=KhC60__tKHxjbgO2oqpB_kYWkqQjWabVHwr6tjtMsCw"/>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
