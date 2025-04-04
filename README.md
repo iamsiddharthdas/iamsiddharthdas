@@ -14,8 +14,6 @@
 
 
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" title="Angular.js" />
@@ -50,11 +48,9 @@
 
 <br/>
 
-
-
-<p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong> <p/>
-<details align="center">
+<p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong> <details align="center">
   <summary><h5><i>Click to find a coping mechanism</i></h5></summary>
+</details></p>
 
 <br/>
 
