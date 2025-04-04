@@ -35,7 +35,8 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
 <br></p></p>
 
-<h5 p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong></h5><details align="center"><summary><i>Click to find a coping mechanism</i></summary></p>
+<details align="center"><summary><i>How do you debug a code that doesn’t want to be fixed? ---> Click here to find a coping mechanism</i></summary><br>
+  
 <p align="center">
   <img src=https://github.com/iamsiddharthdas/iamsiddharthdas/blob/51b31e9effe6a3ef5b6f6d1033989eb60e9e9e8f/1686078905713.gif/>
 </p>
