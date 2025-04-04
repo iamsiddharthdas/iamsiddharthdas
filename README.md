@@ -1,6 +1,6 @@
 
-<h2 align="center" style="font-size: 3em; color: #ff7b00;"> WELCOME TO MY GITHUB, MORTAL! </h1>
-<h4 align="center" style="font-size: 1.5em; font-style: italic;">I build things, break things, and pretend it was all part of the plan. </h3><br>
+<h2 align="center" style="font-size: 3em; color: #ff7b00;"> WELCOME TO MY GITHUB, MORTAL! </h2>
+<h4 align="center" style="font-size: 1.5em; font-style: italic;">I build things, break things, and pretend it was all part of the plan. </h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
