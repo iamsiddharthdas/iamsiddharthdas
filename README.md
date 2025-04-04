@@ -4,7 +4,7 @@
 
 <br/>
 
-## 🤹‍♂️ **Who Am I? (Besides a Walking Debug Log)**  
+### 🤹‍♂️ **Who Am I? (Besides a Walking Debug Log)**  
 🦸‍♂️ **Product Developer** → I build things, break things, and pretend it was all part of the plan.  
 📊 **Data Analyst** →I extract meaning from data, then overthink it for 6 hours.  
 🧙‍♂️ **Tech Necromancer** → I summon APIs and perform dark rituals to fix merge conflicts.  
@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🛠 **Tech Stack (aka My Toolkit of Doom)**  
+### 🛠 **Tech Stack (aka My Toolkit of Doom)**  
 🗡 **Languages:** Python | C# | SQL | Javascript  
 🛠 **Frameworks:** React | AngularJs | Django <br/>
 📚 **Libaries:** Pandas | Numpy | Scikit-learn | FCPython | statsmodels | matplotlib | plotly | mplsoccer | XGBoost | FastF1 <br/>
@@ -25,7 +25,7 @@
 
 <br/>
 
-## 🚀 **Currently Messing Around With**  
+### 🚀 **Currently Messing Around With**  
 🚀 **Full-Stack Madness** – Making frontends beautiful and backends cry for help.   
 📊 **Data Science Shenanigans** – Convincing messy data to tell compelling lies.  
 🧠 **AI & ML Tomfoolery** – Teaching my code to think, so I don’t have to.  
@@ -34,7 +34,7 @@
 
 <br/>
 
-## 🌍 **Find Me in the Wild**  
+### 🌍 **Find Me in the Wild**  
 📷 **Instagram (Somewhere between Aesthetic & Unhinged):** [@iamsiddharthdas](https://twitter.com/)  
 ⚽ **Football Analytics Page (Where stats meet sass) :** [Mezzala ⚽](https://instagram.com/](https://www.instagram.com/mezzala._/))  
 💼 **LinkedIn (For Serious Bizness™):** [Siddharth Das](https://linkedin.com/in/iamsiddharthdas)  
@@ -42,7 +42,7 @@
 
 <br/>
 
-##  **Other irrelevant skills**  
+###  **Other irrelevant skills**  
   
 🦄 I have a **black belt in Ctrl+C & Ctrl+V**.  
 🎵 I can code **to match the beat of my playlist**. 
@@ -50,5 +50,5 @@
    
 <br/>
 
-## ⭐ **Drop a Star, or I’ll Deploy a Bug into Your Codebase.** 😈🐞
+### ⭐ **Drop a Star, or I’ll Deploy a Bug into Your Codebase.** 😈🐞
 (Just kidding… OR AM I?)  
