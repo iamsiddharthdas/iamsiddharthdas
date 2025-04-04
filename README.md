@@ -50,10 +50,11 @@
 
 <br/>
 
+
+
 <p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong> <p/>
 <details align="center">
   <summary><h5><i>Click to find a coping mechanism</i></h5></summary>
-
 
 <br/>
 
