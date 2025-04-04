@@ -3,8 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" align="center"/>
-<br></picture><p align='center'
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQHOn4x2FoX1mQ/feedshare-shrink_800/feedshare-shrink_800/0/1686078905713?e=1746662400&v=beta&t=KhC60__tKHxjbgO2oqpB_kYWkqQjWabVHwr6tjtMsCw"/>
+<br></picture>
 <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" title="Angular.js" />
