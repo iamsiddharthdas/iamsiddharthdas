@@ -8,7 +8,7 @@
 <br></picture>
 
 <p align='center'
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQHOn4x2FoX1mQ/feedshare-shrink_800/feedshare-shrink_800/0/1686078905713?e=1746662400&v=beta&t=KhC60__tKHxjbgO2oqpB_kYWkqQjWabVHwr6tjtMsCw"/></p>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQHOn4x2FoX1mQ/feedshare-shrink_800/feedshare-shrink_800/0/1686078905713?e=1746662400&v=beta&t=KhC60__tKHxjbgO2oqpB_kYWkqQjWabVHwr6tjtMsCw"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" title="Streamlit" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="TensorFlow" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
-</p>
+</p></p>
 
 <h5 p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong><br></h5>
 <details align="center">
