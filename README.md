@@ -1,6 +1,6 @@
 
-<h1 align="center" style="font-size: 3em; color: #ff7b00;"> WELCOME TO MY GITHUB, MORTAL! </h1>
-<h3 align="center" style="font-size: 1.5em; font-style: italic;">I build things, break things, and pretend it was all part of the plan. </h3>
+<h3 align="center" style="font-size: 3em; color: #ff7b00;"> WELCOME TO MY GITHUB, MORTAL! </h1>
+<h5 align="center" style="font-size: 1.5em; font-style: italic;">I build things, break things, and pretend it was all part of the plan. </h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
 </p>
 
-<p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong><br>
+<h5 p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong><br></h5>
 <details align="center">
   <summary><i>Click to find a coping mechanism</i></summary>
 </p>
