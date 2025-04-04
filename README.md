@@ -1,5 +1,4 @@
-
-<h2 align="center"> WELCOME TO MY GITHUB! <br></h2>
+<p><h2 align="center"> WELCOME TO MY GITHUB! </h2></p>
 <h4 align="center">I build things, break things, and pretend it was all part of the plan.</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
