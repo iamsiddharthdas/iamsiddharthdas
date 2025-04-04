@@ -1,6 +1,6 @@
 
-<h2 align="center"> WELCOME TO MY GITHUB! </h2>
-<h4 align="center" style="font-size: 1.5em; font-style: italic;">I build things, break things, and pretend it was all part of the plan. <br></h4>
+<h2 align="center"> WELCOME TO MY GITHUB! <br></h2>
+<h4 align="center">I build things, break things, and pretend it was all part of the plan.</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
