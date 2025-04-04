@@ -8,7 +8,7 @@
 <br></picture>
 
 <p align='center'
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQHOn4x2FoX1mQ/feedshare-shrink_800/feedshare-shrink_800/0/1686078905713?e=1746662400&v=beta&t=KhC60__tKHxjbgO2oqpB_kYWkqQjWabVHwr6tjtMsCw"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQHOn4x2FoX1mQ/feedshare-shrink_800/feedshare-shrink_800/0/1686078905713?e=1746662400&v=beta&t=KhC60__tKHxjbgO2oqpB_kYWkqQjWabVHwr6tjtMsCw"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
