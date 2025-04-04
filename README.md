@@ -42,9 +42,9 @@
 <h5 p align="center"><strong>How do you debug a code that doesn’t want to be fixed?</strong><br></h5>
 <details align="center">
   <summary><i>Click to find a coping mechanism</i></summary>
-</p>
+
 <p align="center">
   <img src=https://github.com/iamsiddharthdas/iamsiddharthdas/blob/51b31e9effe6a3ef5b6f6d1033989eb60e9e9e8f/1686078905713.gif/>
-</p>
+</p></p>
 
 
