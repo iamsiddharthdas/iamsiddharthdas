@@ -45,8 +45,8 @@
 ###  **Other irrelevant skills**  
   
 🦄 I have a **black belt in Ctrl+C & Ctrl+V**.  
-🎵 I can code **to match the beat of my playlist**. 
-⚽ Can analyze football games for hours but forget where I put my keys in 10 seconds.
+🎵 I can code **to match the beat of my playlist**. <br/>
+⚽ Can **analyze football games for hours** but **forget where I put my keys in 10 seconds**.
    
 <br/>
 
