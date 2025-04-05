@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
 <br></p></p>
 
-<details align="center"><summary><i>How do you feel about debugging a code that doesn’t want to be fixed? ---> Click here to cope better</i></summary><br>
+<details align="center"><summary><i>Debugging a code that's throwing errors just to spite you?-->Click here to cope, the Lasso way.</i></summary><br>
   
 <p align="center">
   <img src=https://github.com/iamsiddharthdas/iamsiddharthdas/blob/51b31e9effe6a3ef5b6f6d1033989eb60e9e9e8f/1686078905713.gif/>
