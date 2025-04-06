@@ -35,18 +35,11 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
 <br></p></p>
 
-<details align="center"><summary><i>Debugging a code that's throwing errors just to spite you? Click here to cope, the Lasso way.</i></summary><br>
+<details align="center"><summary><i><span style="font-size: 6px;">Debugging a code that's throwing errors just to spite you?<br> 
+  <sub>Click here to cope, the Lasso way.</sub></span></i></summary><br>
   
 <p align="center">
   <img src=https://github.com/iamsiddharthdas/iamsiddharthdas/blob/51b31e9effe6a3ef5b6f6d1033989eb60e9e9e8f/1686078905713.gif/>
 </p>
 
 
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamsiddharthdas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamsiddharthdas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthdas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
