@@ -5,7 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamsiddharthdas/iamsiddharthdas/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/iamsiddharthdas/iamsiddharthdas/output/github-snake.svg" align="center"/>
 </picture>
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" title="Angular.js" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" title="Arduino" />
@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" title="Streamlit" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="TensorFlow" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
-<br></p></p>
+<br></p></p> -->
+<br>
+<br>
 
 <details align="center"><summary><i><span style="font-size: 6px;">Debugging a code that's throwing errors just to spite you?<br> 
   <sub>Click here to cope, the Lasso way.</sub></span></i></summary><br>
